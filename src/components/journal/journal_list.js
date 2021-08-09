@@ -36,7 +36,8 @@ export default class JournalList extends Component {
   };
 
   render() {
-    const journalEntries = this.state.journalData.map(journalEntry => {
+    const journalEntries =eneccccgetrgbcjdlfckidvrvcfvndjvvccdkvtgjrkv
+     this.state.journalData.map(journalEntry => {
       return (
         <div key={journalEntry.title}>
           <JournalEntry
